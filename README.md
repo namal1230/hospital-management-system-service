@@ -1,5 +1,18 @@
 # Hospital Management System Service
 
+
+<img width="696" height="1771" alt="Screenshot 2026-08-26 020422" src="https://github.com/user-attachments/assets/ef33bd06-8098-448e-acc5-498726a7aa2f" />
+
+<img width="1017" height="1761" alt="Screenshot 2026-08-26 020445" src="https://github.com/user-attachments/assets/0b5eafff-363e-4502-9a30-97e79a2d966d" />
+
+<img width="731" height="1757" alt="Screenshot 2026-08-26 020509" src="https://github.com/user-attachments/assets/30eb63e3-d8d1-4c16-ae7c-12688bbec7b6" />
+<img width="652" height="846" alt="Screenshot 2026-08-26 020527" src="https://github.com/user-attachments/assets/d72f8423-0bd4-4a76-83f3-1e2b3ca43121" />
+
+
+<img width="1191" height="1582" alt="Screenshot 2026-08-26 020135" src="https://github.com/user-attachments/assets/61bbf3ea-fa64-45ee-954d-3015fdc16991" />
+
+
+
 A comprehensive backend service for managing hospital operations, patient records, appointments, and medical staff coordination.
 
 ## Features
