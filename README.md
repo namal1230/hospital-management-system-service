@@ -1,5 +1,6 @@
 # Hospital Management System Service
 
+url: http://34.100.245.183:9001/
 
 <img width="696" height="1771" alt="Screenshot 2026-08-26 020422" src="https://github.com/user-attachments/assets/ef33bd06-8098-448e-acc5-498726a7aa2f" />
 
