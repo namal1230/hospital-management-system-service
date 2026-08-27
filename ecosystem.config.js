@@ -1,6 +1,11 @@
 module.exports = {
   apps : [
       {
+         name: "cloud-sql-auth-proxy",
+         script: "./cloud-sql-proxy pro-edu-476313:asia-south1:eca-postgres pro-edu-476313:asia-south1:eca-sql",
+         log_file: "./logs/cloud-sql-proxy.log",
+      },
+      {
         name   : "OrderService",
         script: "java",
         args: "-jar ./OrderService/target/OrderService-0.0.1-SNAPSHOT.jar",
